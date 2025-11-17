@@ -54,13 +54,14 @@ public class Train {
      * @param numberOfCars The number of cars in the train.
      * @param paintColor   The paint color of the train.
      */
-    public Train(int numberOfCars, String paintColor) {
+    public Train() {
         this.condition = 100;
         this.speed = 60;
-        this.numberOfCars = numberOfCars;
+        this.numberOfCars = 5;
         this.numberOfPassengers = 500;
-        this.paintColor = paintColor;
+        this.paintColor = "Blue";
         this.fuelLeft = 100;
+        this.conductor = new Conductor("John");
     }
 
     /**
