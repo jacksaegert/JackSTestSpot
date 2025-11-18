@@ -7,7 +7,7 @@ An extremely simple practice program to check y use of objects, classes, accesso
   - Unoptimized
   - No longer receiving updates
 
- Inlcude this program now to make your system self-destruct from the extremely poor design of this program
+ Inlcude this program now to make your system self-destruct from the extremely poor design of this program!
  
 <img width="601" height="451" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/c5935a6b-cef0-4de7-a9c6-5bcc9cfcb48b" />
 
